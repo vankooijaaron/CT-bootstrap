@@ -1,3 +1,8 @@
+#h1{
+
+
+}
+
 #header
 {
     background-color: rgb(148, 124, 124);
@@ -6,8 +11,15 @@
 
 #foto
 {
-    background-color: rgb(167, 64, 64);
-    height: 50vh;
+    background-color: rgb(151, 151, 151);
+    height: 40vh;
+    margin-bottom: 5vh;
+}
+
+#titeltext
+{
+    background-color: rgb(151, 151, 151);
+    height: 40vh;
     margin-bottom: 5vh;
 }
 
@@ -25,7 +37,18 @@
 
 #voet
 {
-    margin-top: 5vh;
-    background-color: rgb(148, 124, 124);
-    height: 5vh;
+  background-color: rgb(148, 124, 124);
+    height: 10vh;
+}
+
+.text
+ {
+ height: 50vh;
+}
+
+img{
+
+    max-width: 50vh;
+    max-height: 40vh;
+    
 }
