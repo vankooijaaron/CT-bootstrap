@@ -1,0 +1,31 @@
+#header
+{
+    background-color: rgb(148, 124, 124);
+    height: 5vh;
+}
+
+#foto
+{
+    background-color: rgb(167, 64, 64);
+    height: 50vh;
+    margin-bottom: 5vh;
+}
+
+.voorbeeld1
+{
+    background-color: rgb(230, 61, 215);
+    height: 25vh;
+}
+
+.voorbeeld2
+{
+    background-color: rgb(230, 61, 215);
+    height: 25vh;
+}
+
+#voet
+{
+    margin-top: 5vh;
+    background-color: rgb(148, 124, 124);
+    height: 5vh;
+}
